@@ -1,0 +1,6 @@
+{
+  "name": "Embedded EG LCD Designer",
+  "description": "Design custom graphics for an Arduino 16x2 character LCD and generate Arduino code automatically.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
